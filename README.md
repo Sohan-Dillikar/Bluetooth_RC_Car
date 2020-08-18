@@ -23,9 +23,9 @@ Materials :
 
 Required Knowledge :
   - Basic Python3 Fundamentals
-  - Flow of Current
-  - Resistor Functionality
-  - Trasistor Functionality
-  - Wiring an l293d Motor Driver
-  - Wiring an Active Buzzer
-  - Wiring a Push Button
+  - [Flow of Current](https://www.youtube.com/watch?v=nzmoGca5rXc)
+  - [Resistor Functionality](https://www.youtube.com/watch?v=Gc1wVdbVI0E)
+  - [Trasistor Functionality](https://www.youtube.com/watch?v=7ukDKVHnac4&t=314s)
+  - [Wiring an l293d Motor Driver](https://www.youtube.com/watch?v=X6QWvUBmKUU)
+  - [Wiring an Active Buzzer](https://www.youtube.com/watch?v=KIlpehM2LCE&t=9s)
+  - [Wiring a Push Button](https://www.youtube.com/watch?v=Bqk6M_XdIC0)
