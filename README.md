@@ -6,6 +6,7 @@ Materials :
   - Basic Materials :
     - [Raspberry Pi](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1_sspa?dchild=1&keywords=raspberry+pi+3&qid=1597708898&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMVJaMVVMMFQxTDJNJmVuY3J5cHRlZElkPUEwMzI5MzA0VTVHQUY5R0I3WVNKJmVuY3J5cHRlZEFkSWQ9QTA3NTAxMjAzTUIyNzBOUEVKVk9JJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
     - [Breadboard](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_1_sspa?dchild=1&keywords=breadboard&qid=1597709033&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUzJGSEpMRU1TSjNLJmVuY3J5cHRlZElkPUEwODI2MDcwM0I3NjBXOUtRSUxHQyZlbmNyeXB0ZWRBZElkPUEwNTI0ODkxMTVLQVI1Vk9QVEE5OCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+    - [Powerbank](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI/ref=sr_1_1_sspa?dchild=1&keywords=power+bank&qid=1597794451&sr=8-1-spons&psc=1&smid=A294P4X9EWVXLJ&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWTJUSFdSNEZNSzhZJmVuY3J5cHRlZElkPUEwNDA3OTY2QVNEM1lMM0Q3MDlTJmVuY3J5cHRlZEFkSWQ9QTA4MTkxMDYxS05ZVVhYM0U4NUVMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) (Power Supply)
     - [Python3](https://www.python.org/)
     - RPi.GPIO Module
     - Monitor, Keyboard, Mouse
