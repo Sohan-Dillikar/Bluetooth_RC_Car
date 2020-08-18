@@ -19,3 +19,4 @@ Materials :
     - [Jumper Wires](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?dchild=1&keywords=jumper+wires&qid=1597709511&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUUlNRDBDRDFUSVNZJmVuY3J5cHRlZElkPUEwMjQ2MDMyMlRQSVZVSzZZMUFCNyZlbmNyeXB0ZWRBZElkPUEwOTQ1NDM2MUpBN1RMSkJGREFMWiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
    - Optional :
      - [Car Chassis](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNXBFQN/ref=sr_1_2?dchild=1&keywords=robot+car+wheels&qid=1597709751&sr=8-2) x1 (Comes with 4 DC Motors and Wheels!)
+     - [T-Type Breadboard Extension + Belt](https://www.amazon.com/Kuman-Expansion-Raspberry-Solderless-Breadboard/dp/B074DSMPYD/ref=sr_1_8?dchild=1&keywords=breadboard+extension&qid=1597765374&sr=8-8) (Comes with Jumper Wires and Mini Breadboard!)
