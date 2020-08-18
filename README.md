@@ -9,7 +9,7 @@ Materials :
     - [Python3](https://www.python.org/)
     - RPi.GPIO Module
     - Monitor, Keyboard, Mouse
-    - Android Phone or Tablet 
+    - Android Phone or Tablet with Bluetooth
   - Project Components :
     - [l293d](https://www.amazon.com/PIXNOR-16-pin-Stepper-Drivers-Controllers/dp/B00ODQM8KC/ref=sr_1_1_sspa?dchild=1&keywords=l293d&qid=1597709181&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE4TFVWV0FBSVVENlomZW5jcnlwdGVkSWQ9QTA0ODk2NTUxVDQ4T1FZMDNEOEhQJmVuY3J5cHRlZEFkSWQ9QTAxNTUzNDMxSzJMWVcwMFBWMExRJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) x2
     - [DC Motors + Wheels](https://www.amazon.com/Electric-Magnetic-Gearbox-Plastic-Yeeco/dp/B07DQGX369/ref=sr_1_3?dchild=1&keywords=robot+car+wheels&qid=1597709235&sr=8-3) x4 (Check out the Car Chassis below if you are interested in DC Motors + Wheels + Car Chassis + Battery Holder!)
@@ -29,3 +29,4 @@ Required Knowledge :
   - [Wiring an l293d Motor Driver](https://www.youtube.com/watch?v=X6QWvUBmKUU)
   - [Wiring an Active Buzzer](https://www.youtube.com/watch?v=KIlpehM2LCE&t=9s)
   - [Wiring a Push Button](https://www.youtube.com/watch?v=Bqk6M_XdIC0)
+  - Bluetooth Functionality with Python and Raspberry Pi
