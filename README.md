@@ -20,3 +20,12 @@ Materials :
    - Optional :
      - [Car Chassis](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNXBFQN/ref=sr_1_2?dchild=1&keywords=robot+car+wheels&qid=1597709751&sr=8-2) x1 (Comes with 4 DC Motors and Wheels!)
      - [T-Type Breadboard Extension + Belt](https://www.amazon.com/Kuman-Expansion-Raspberry-Solderless-Breadboard/dp/B074DSMPYD/ref=sr_1_8?dchild=1&keywords=breadboard+extension&qid=1597765374&sr=8-8) (Comes with Jumper Wires and Mini Breadboard!)
+
+Required Knowledge :
+  - Basic Python3 Fundamentals
+  - Flow of Current
+  - Resistor Functionality
+  - Trasistor Functionality
+  - Wiring an l293d Motor Driver
+  - Wiring an Active Buzzer
+  - Wiring a Push Button
