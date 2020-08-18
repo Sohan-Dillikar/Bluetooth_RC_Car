@@ -22,7 +22,7 @@ Materials :
      - [T-Type Breadboard Extension + Belt](https://www.amazon.com/Kuman-Expansion-Raspberry-Solderless-Breadboard/dp/B074DSMPYD/ref=sr_1_8?dchild=1&keywords=breadboard+extension&qid=1597765374&sr=8-8) (Comes with Jumper Wires and Mini Breadboard!)
 
 Required Knowledge :
-  - Basic Python3 Fundamentals
+  - [Basic Python3 Fundamentals](https://www.youtube.com/watch?v=rfscVS0vtbw&t=10224s)
   - [Flow of Current](https://www.youtube.com/watch?v=nzmoGca5rXc)
   - [Resistor Functionality](https://www.youtube.com/watch?v=Gc1wVdbVI0E)
   - [Trasistor Functionality](https://www.youtube.com/watch?v=7ukDKVHnac4&t=314s)
