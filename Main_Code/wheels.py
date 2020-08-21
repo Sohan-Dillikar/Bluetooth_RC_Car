@@ -4,7 +4,6 @@ leftWheelPins = ((11, 13, 15), (12, 16, 18))
 rightWheelPins = ((33, 35, 37), (36, 38, 40))
 
 def setupWheels():
-    GPIO.setmode(GPIO.BOARD)
     for pins in leftWheelPins + rightWheelPins:
         GPIO.setup(pins[0], GPIO.OUT, initial=GPIO.LOW)
         GPIO.setup(pins[1], GPIO.OUT)
