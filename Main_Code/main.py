@@ -36,7 +36,7 @@ def loop():
 				for command_char, command_action in commands.items():
 					client_socket.send(command_char + " - " + command_action + "\n")
 		while connection:
-			command = client_socket.recv(1)
+			command = client_socket.recv(1024)
 			if command == b"f\r\n":
 				forward("all-wheels")
 				client_socket.send("Moving forward...\n")
