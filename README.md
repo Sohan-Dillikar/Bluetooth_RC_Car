@@ -33,3 +33,5 @@ Required Knowledge :
   - [Wiring an Active Buzzer](https://www.youtube.com/watch?v=KIlpehM2LCE&t=9s)
   - [Wiring a Push Button](https://www.youtube.com/watch?v=Bqk6M_XdIC0)
   - Bluetooth Functionality with Python and Raspberry Pi
+
+Find the Youtube video for this project [here](https://www.youtube.com/watch?v=XD4t01nQeBg)!
